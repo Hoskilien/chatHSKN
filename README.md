@@ -1,4 +1,3 @@
-# chatHSKN
 # Discord ChatGPT Bot
 
 A Discord bot that integrates with ChatGPT for conversational AI interactions.
